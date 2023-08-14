@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "18351629358",
+    "project_id": "task-scheduler-4bae5",
+    "storage_bucket": "task-scheduler-4bae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18351629358:android:3f228f21a02f287b83abbf",
+        "android_client_info": {
+          "package_name": "com.example.rajneeshloginvalidation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18351629358-fhvm6a9gqfn5dsip5gsm5m8o62ph2gep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajneeshloginvalidation",
+            "certificate_hash": "bcab75766cf4e643950752fd5ce99891b03b1230"
+          }
+        },
+        {
+          "client_id": "18351629358-enoaf0sccckqeljlp1qldgaecclr2hhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptnvYQct8Dm0QNwD062Y34DCvGxzJ6UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18351629358-as00lfh8giqm24qjnmludtgbvavjnuhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18351629358:android:bc2594d9dc27b93183abbf",
+        "android_client_info": {
+          "package_name": "com.rajneesh.taskscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18351629358-dduggpap164smd936da0sjeah9ug4ukq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajneesh.taskscheduler",
+            "certificate_hash": "d40176475fd22f186aaf977d9bfbda09917c9154"
+          }
+        },
+        {
+          "client_id": "18351629358-gk3h5ldutpebvbhimmpfrmgrf7ras49q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajneesh.taskscheduler",
+            "certificate_hash": "bcab75766cf4e643950752fd5ce99891b03b1230"
+          }
+        },
+        {
+          "client_id": "18351629358-jheu680qh9a9i0vd85b5n8bem1fugf38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajneesh.taskscheduler",
+            "certificate_hash": "4f344929559c9bf53ed84840d729ec7ce9176167"
+          }
+        },
+        {
+          "client_id": "18351629358-enoaf0sccckqeljlp1qldgaecclr2hhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptnvYQct8Dm0QNwD062Y34DCvGxzJ6UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18351629358-as00lfh8giqm24qjnmludtgbvavjnuhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
